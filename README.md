@@ -10,6 +10,6 @@
   </details>
 
   <details>
-    <summary><h3>MLP - Regression to predict z-band brightness of quasars, given brightness in i- and r-bands</h3></summary>
+    <summary><h3>MLP - Prediction of z-band brightness of quasars, given the brightness in i- and r-bands</h3></summary>
     Text 3
   </details>
