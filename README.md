@@ -62,7 +62,7 @@ This project used machine learning to predict a quasar's brightness in the z-ban
 | Data | Link |
 | --- | --- |
 | PennState Center for Astrostatistics | [Data & Tutorials](https://sites.psu.edu/astrostatistics/datasets/) |
-| SDSS quasar catalog | [SDSS_quasar.html](SDSS_quasar.dat) |
+| SDSS quasar catalog | [SDSS_quasar.dat](SDSS_quasar.dat) |
 
 - Created a heatmap of the dataset to visualise correlations between different variables, choosing the optimal set to perform multi-variable regression with.
 - Developed and trained an MLP on the selected data after pre-processing, allowing the network to take in the i- and r-band magnitudes.
