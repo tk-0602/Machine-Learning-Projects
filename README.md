@@ -1,4 +1,4 @@
-# Machine Learning Projects
+# Machine-Learning-Projects
 A collection of Machine Learning projects I completed for coursework in my 4th year at university.
 
 <details>
