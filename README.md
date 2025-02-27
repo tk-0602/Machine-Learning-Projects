@@ -73,3 +73,17 @@ This project used machine learning to predict a quasar's brightness in the z-ban
 <img src = "Plots/MLP - Quasars/MLP_rmag_prediction.png">
 <img src = "Plots/MLP - Quasars/MLP_imag_rmag_residuals.png">
 </details>
+
+<!---
+<details>
+<summary><h3>Anime Recommender</h3></summary>
+A collaborative filtering-based recommendation system built using Cosine Similarity which is used to measure distance between two points as an alternative to (and animporvement on) the traditional Euclidean Distance measurement.
+<br/><br/>
+
+_Add equations of Euclidean Distance and Cosine Similarity_
+
+
+Read more about this approach in this [Medium article](https://medium.com/@arjunprakash027/understanding-cosine-similarity-a-key-concept-in-data-science-72a0fcc57599)
+
+</details>
+--->
